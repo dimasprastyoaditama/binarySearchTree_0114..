@@ -52,5 +52,9 @@ class BinaryTree {
         //
         newNode->info = x;
 
+        //
+        newNode->leftchild = nullptr;
+        newNode->rightchild = nullptr;
+
         
 }
