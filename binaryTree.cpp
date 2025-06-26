@@ -9,5 +9,9 @@ Node *leftchild;
 Node *rightchild;
 
 //construktor for the node class
-
+Node()
+{leftchild = nullptr; //
+    rightchild = nullptr; //
 }
+};
+
