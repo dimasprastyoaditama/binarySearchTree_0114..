@@ -46,5 +46,8 @@ class BinaryTree {
         cout << "Masukkan Nilai";
         cin >> x;
 
+        //
+        Node *newNode = new Node();
+
        
 }
