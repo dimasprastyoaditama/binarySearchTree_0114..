@@ -8,5 +8,6 @@ int info;
 Node *leftchild;
 Node *rightchild;
 
+//construktor for the node class
 
 }
