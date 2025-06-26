@@ -40,5 +40,6 @@ class BinaryTree {
         }  
     }
 
+    void insert()
     
 }
